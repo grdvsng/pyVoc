@@ -12,7 +12,6 @@ config = {
     'version': '1.0',
     'install_requires': ['nose'],
     'packages': ['pyvoc'],
-    'scripts': ['bin\\'],
     'name': 'pyvoc',
     }
 
