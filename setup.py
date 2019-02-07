@@ -10,7 +10,7 @@ config = {
     'download_url': 'None',
     'author_email': 'grdvsng@gmail.com',
     'version': '1.0',
-    'install_requires': ['nose'],
+    'install_requires': ['pyvoc'],
     'packages': ['pyvoc'],
     'name': 'pyvoc',
     }
